@@ -1,4 +1,4 @@
-# LDAP - Gestion des Accès
+# LDAP, Gestion des Accès
 
 Projet réalisé dans le cadre de la formation à La Plateforme, Marseille.
 
